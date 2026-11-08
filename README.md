@@ -1,4 +1,4 @@
-# superagent 测试仓库
+# superagent 测试仓库 v2
 
 这是 dsh-superagent 研究原型的**试跑仓库**，用来验证「在 Issue 里 @agent 派活」的完整链路。
 
